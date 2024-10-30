@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: bisque;
+    text-decoration: underline;
+}
+h3{
+    color: brown;
+    text-decoration: underline;
+}
+.myself{
+    color: darkblue;
+}
+ul li::after{
+    content: "🤩";
+}
+nav:hover{
+    color: blue;
+}
